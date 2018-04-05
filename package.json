@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/gloss-water/fish/issues"
   },
-  "homepage": "https://github.com/gloss-water/fish#readme"
+  "homepage": "https://github.com/gloss-water/fish#readme",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "client-oauth2": "^4.2.0",
+    "express": "^4.16.3",
+    "node-fetch": "^2.1.2"
+  }
 }
